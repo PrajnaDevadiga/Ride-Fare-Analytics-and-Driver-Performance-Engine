@@ -107,7 +107,3 @@ driver_id,fare_amount,ride_time,ride_status
 d1,100,2024-01-01T10:00:00Z,COMPLETED
 d1,600,2024-01-01T12:00:00Z,COMPLETED
 ```
-
-### Troubleshooting
-- If outputs are empty, ensure required columns exist and values meet validation criteria.
-- Confirm `ride_time` values are valid ISO timestamps (e.g., include `Z` for UTC).
