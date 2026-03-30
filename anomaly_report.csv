@@ -1,0 +1,2 @@
+driver_id,ride_time,fare_amount,anomaly_type
+D007,2024-07-01 10:25:00,800,HIGH_FARE

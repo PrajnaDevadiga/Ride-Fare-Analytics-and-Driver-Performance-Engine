@@ -1,0 +1,11 @@
+driver_id,driver_name,status,vehicle_type
+D001,Ramesh,ACTIVE,Car
+D002,Suresh,ACTIVE,Bike
+D003,Mahesh,INACTIVE,Car
+D004,Kiran,ACTIVE,Car
+D005,Arun,ACTIVE,Bike
+D006,Vijay,BLOCKED,Car
+D007,Naveen,ACTIVE,Car
+D008,Rahul,ACTIVE,Bike
+D009,Ajay,ACTIVE,Car
+D010,Deepak,ACTIVE,Car
